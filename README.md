@@ -1,5 +1,5 @@
 ## Web development playground
-Learn HTML, CSS and JavaScript
+#### Learn HTML, CSS and JavaScript
 ## Introduction to Git
 ### Git initilization
 1. Local Initilization
