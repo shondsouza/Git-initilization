@@ -10,7 +10,7 @@
 - Now you can commit and push your new changes 
 
 ```
- Type the details of your code changes in brief as message 
+# Type the details of your code changes in brief as message 
 git commit -m "Description about the changes"
 
 # Your commits will be pushed to remote VCS or github 
